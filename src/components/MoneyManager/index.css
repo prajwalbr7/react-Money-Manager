@@ -1,0 +1,167 @@
+/* Write your CSS here */
+.container1 {
+  height: 100vh;
+  padding-top: 4px;
+  padding-bottom: 8px;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+.container2 {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+.heading-container {
+  width: 100%;
+  height: 25%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.head-cont-heading-style {
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: 500;
+  color: #475569;
+}
+.head-cont-para-style {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 13px;
+  color: #475569;
+}
+.head-cont-span-style {
+  color: #0b69ff;
+}
+.cont-height-width-to-img-balance {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.cont-to-form {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 20px;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 4px 0px #bfbfbf;
+  width: 30%;
+  height: 55%;
+  border-radius: 10px;
+}
+.form-style {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.heading-style-in-form {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  color: #1e293b;
+}
+.label-style {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  color: #7e858e;
+}
+.input-style {
+  padding: 7px;
+  width: 250px;
+  border-width: 0px;
+  border-radius: 2px;
+  box-shadow: 0px 1px 4px 0px #bfbfbf;
+}
+.margin-to-form {
+  margin-bottom: 20px;
+}
+.margin-to-label {
+  margin-bottom: 8px;
+}
+.option-style {
+  border-radius: 0px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #475569;
+  padding: 20px;
+}
+.button-style {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #0b69ff;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+  border-width: 0px;
+  cursor: pointer;
+}
+.container-to-history-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 30px;
+}
+.history-cont {
+  width: 60%;
+  height: 342px;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 20px;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 4px 0px #bfbfbf;
+
+  border-radius: 10px;
+}
+.heading-style-in-history {
+  font-size: 13px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  width: 100px;
+}
+.cont-heading-history {
+  border-radius: 2px;
+  width: 80%;
+  display: flex;
+
+  align-items: center;
+
+  box-sizing: border-box;
+  padding-left: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+}
+.ul-style-list {
+  padding: 0px;
+  margin-top: 0px;
+}
+.margin-to-head-his {
+  margin-left: 30px;
+}
+.margin-to-head-his1 {
+  margin-left: 30px;
+}
+.shadow-to-history {
+  width: 80%;
+  box-shadow: 0px 1px 4px 0px #bfbfbf;
+}

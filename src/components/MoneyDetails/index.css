@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.cont-height-width-to-img-balance {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.img-balance-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 20%;
+
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 2px;
+}
+.img-sizing {
+  width: 50px;
+  height: 50px;
+}
+.img-para-style1 {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+}
+.img-cont-colors-1 {
+  background-color: #ecfccb;
+  border-color: #84cc16;
+}
+.img-cont-colors-2 {
+  background-color: #cffafe;
+  border-color: #06b6d4;
+}
+.img-cont-colors-3 {
+  background-color: #ede9fe;
+  border-color: #7c3aed;
+}
